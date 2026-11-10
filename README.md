@@ -1,2 +1,2 @@
 # Website-testing---OrangeHRM
-Explored the OrangeHRM application to understand how it works. Created and executed 60 end-to-end test scenarios 
+Manual testing of the OrangeHRM application, covering core HR functionalities, including employee management, user administration, leave management, recruitment and workflows. Includes test scenarios, test cases, test execution results and defect reports.
